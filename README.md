@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @sifiadlene
-- 👀 I’m interested in DevOps, Azure, .NET
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 	:ghost: Hi, I’m @sifiadlene
+- :dart: I’m interested in DevOps, Azure, Kubernetes, .NET, ML
+- 🌱 I’m currently learning new stuff 
+- 💞️ I’m looking to collaborate on Azure or .NET projects
 
 <!---
 sifiadlene/sifiadlene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
